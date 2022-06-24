@@ -1,4 +1,9 @@
-### Hi there 👋
+# Sobre mí
+
+- 🎒Princpiante en programacion
+- 💫 Autodidacta y amante de la lectura
+- 🧊 Team frio, 🐕 perros y 🔴 jamaica
+- JavaScrip y ReactNative ⚛️
 
 <!--
 **camiyoshi/camiyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
